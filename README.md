@@ -1,5 +1,11 @@
 # FundSurf
 
+
+![alt text](https://xvsiitlrwsnmkmyktqfu.supabase.co/storage/v1/object/sign/bukky/fundingsample.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJidWtreS9mdW5kaW5nc2FtcGxlLnBuZyIsImlhdCI6MTY1NTEyNTQ0MiwiZXhwIjoxOTcwNDg1NDQyfQ.DJBZJekZfgVibZFK0KxR9rxWnL4YVEnCnYAmXC5L3Xc)
+Example of returns. Green bars represent days of positive funding payments auto deposited to the mango account on a balance of $30 [8% Interest per year]
+
+
+
 Steps to run:
 
 1) Create .env file with the following format:
